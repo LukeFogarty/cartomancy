@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1e063b4767e95e2419f2eeb0f686d3f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sourceMap: {instanceID: 0}
+  - tile: {fileID: 7246162661211554614, guid: 18982cac5accf7e4b8794dbada4b4e3d, type: 3}
+  - spikes: {fileID: 7246162661211554614, guid: 71a6aa63b6aa76d43a9d0fbfe0b758a5,
+      type: 3}
+  - switchTile: {fileID: 7246162661211554614, guid: 1653e671738785247aeb396ebb803b3d,
+      type: 3}
+  - coin: {fileID: 1717918405357916834, guid: 4c73077522b9144438c1fa451d06cf7f, type: 3}
+  - crystal: {fileID: 4667452764315134125, guid: ae95a2e392e223f41a97af0f1acd1275,
+      type: 3}
+  - holy: {fileID: 7246162661211554614, guid: daa7c627387f7364399636ad19751005, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
