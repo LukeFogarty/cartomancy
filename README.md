@@ -7,6 +7,6 @@ Anyway, here are the scripts for the game, as well as a link to where you can pl
 
 The aim of the game is to manipulate the map to navigate the level, and reach the crystal. When you rotate or flip the map, your character stays in place, allowing you to access new areas. There's 20 levels to try, and 100 coins to collect! 
 
-Here is a link to the game - https://www.lukefogarty.com/cartomancy
+Here is a link to the game - https://www.lukefogarty.com/cartomancy or https://sclimpini.itch.io/cartomancy
 
 Enjoy!
